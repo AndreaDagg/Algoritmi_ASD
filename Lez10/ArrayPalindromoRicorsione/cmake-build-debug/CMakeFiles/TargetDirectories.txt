@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/CLionProjects/Lez10/ArrayPalindromoRicorsione/cmake-build-debug/CMakeFiles/ArrayPalindromoRicorsione.dir
+C:/Users/Andrea D'Agg/CLionProjects/Lez10/ArrayPalindromoRicorsione/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/CLionProjects/Lez10/ArrayPalindromoRicorsione/cmake-build-debug/CMakeFiles/rebuild_cache.dir

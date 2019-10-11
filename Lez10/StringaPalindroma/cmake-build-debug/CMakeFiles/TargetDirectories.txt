@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/CLionProjects/Lez10/StringaPalindroma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/CLionProjects/Lez10/StringaPalindroma/cmake-build-debug/CMakeFiles/StringaPalindroma.dir
+C:/Users/Andrea D'Agg/CLionProjects/Lez10/StringaPalindroma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
