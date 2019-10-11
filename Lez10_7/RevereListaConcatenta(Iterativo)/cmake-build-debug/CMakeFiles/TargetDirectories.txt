@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/CLionProjects/Lez07/RevereListaConcatenta(Iterativo)/cmake-build-debug/CMakeFiles/RevereListaConcatenta_Iterativo_.dir
+C:/Users/Andrea D'Agg/CLionProjects/Lez07/RevereListaConcatenta(Iterativo)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/CLionProjects/Lez07/RevereListaConcatenta(Iterativo)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
