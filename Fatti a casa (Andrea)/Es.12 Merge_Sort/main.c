@@ -1,3 +1,4 @@
+/* MERGE SORT */
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -25,33 +26,38 @@ void stampa_array(int V[], int n) {
     return;
 }
 
-void merge(int a[], int p, int q, int r) {
-    int i, j, k = 0, b[max];
-    i = p;
-    j = q + 1;
+void merge(int Array[], int position, int half, int arrayDimension) {
+    printf("****** MERGE  ******\n");
+    int positionFirstBlock, positionSecondBlock, k = 0, b[max];
+    positionFirstBlock = position;
+    positionSecondBlock = half + 1;
 
-    while (i <= q && j <= r) {
-        if (a[i] < a[j]) {
-            b[k] = a[i];
-            i++;
+    while (positionFirstBlock <= half && positionSecondBlock <= arrayDimension) {
+        if (Array[positionFirstBlock] < Array[positionSecondBlock]) {
+            b[k] = Array[positionFirstBlock];
+            positionFirstBlock++;
         } else {
-            b[k] = a[j];
-            j++;
+            b[k] = Array[positionSecondBlock];
+            positionSecondBlock++;
         }
         k++;
     }
-    while (i <= q) {
-        b[k] = a[i];
-        i++;
+
+    /* Fill with the remaining boxes */
+    while (positionFirstBlock <= half) {
+        b[k] = Array[positionFirstBlock];
+        positionFirstBlock++;
         k++;
     }
-    while (j <= r) {
-        b[k] = a[j];
-        j++;
+    while (positionSecondBlock <= arrayDimension) {
+        b[k] = Array[positionSecondBlock];
+        positionSecondBlock++;
         k++;
     }
-    for (k = p; k <= r; k++)
-        a[k] = b[k - p];
+
+    /* Enter the ordered items in the original array */
+    for (k = position; k <= arrayDimension; k++)
+        Array[k] = b[k - position];
     return;
 }
 
@@ -60,17 +66,18 @@ void mergeSort(int Array[], int position, int dimension) {
 
     int half;
     if (position < dimension) {
-        printf("-----  if  ------\n");
+        printf("------  if  -------\n");
         half = (position + dimension) / 2;
-        printf("-----  one  ------\n");
+        printf("------  one  -------\n");
         mergeSort(Array, position, half);
-        printf("-----  two  ------\n");
+        printf("------  two  -------\n");
+        /* Second part of the Array */
         mergeSort(Array, half + 1, dimension);
         merge(Array, position, half, dimension);
-    }else{
-        printf("----- not if  ------\n");
+    } else {
+        printf("------ not if  -------\n");
     }
-    printf("----- RETURN  ------\n");
+    printf("------ RETURN  -------\n");
     printf("   %d   ||    %d   \n", position, dimension);
     return;
 }
