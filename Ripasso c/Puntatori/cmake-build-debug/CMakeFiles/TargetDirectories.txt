@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Puntatori/cmake-build-debug/CMakeFiles/Ripasso.dir
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Puntatori/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Puntatori/cmake-build-debug/CMakeFiles/rebuild_cache.dir
