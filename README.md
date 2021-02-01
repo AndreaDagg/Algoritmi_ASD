@@ -3,7 +3,7 @@
 Algortimi e strutture dati: 
 * Programmi di ripasso linguaggio C; 
 * Liste concatenate
-* Pntatori e strutture
+* Puntatori e strutture
 * Ricorsione
 * Strutture dati Alberi e grafi (Bfs, Dfs); 
 * Progammazione Dinamica: (Lcs);
