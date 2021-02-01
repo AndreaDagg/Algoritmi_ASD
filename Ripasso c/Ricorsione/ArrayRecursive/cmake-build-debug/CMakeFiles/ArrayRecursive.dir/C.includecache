@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/ArrayRecursive/main.c
+stdlib.h
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/ArrayRecursive/stdlib.h
+stdio.h
+-
+
