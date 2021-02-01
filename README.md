@@ -1,6 +1,6 @@
 # AlgoEe
 
-<h1> Algortimi e strutture dati in C <\h1>
+<h1> Algortimi e strutture dati in C </h1>
 * Programmi di ripasso linguaggio C
 * Liste concatenate
 * Puntatori e strutture
