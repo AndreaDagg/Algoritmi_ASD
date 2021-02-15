@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/Knappak/cmake-build-debug/CMakeFiles/Knappak.dir
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/Knappak/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/Knappak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
