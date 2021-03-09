@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/coda_queue/stack.c
+stdio.h
+-
+stdlib.h
+-
+

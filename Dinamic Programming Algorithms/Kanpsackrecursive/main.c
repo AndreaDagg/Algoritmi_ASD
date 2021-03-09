@@ -26,7 +26,7 @@ int main() {
     printf("Matrice Inizializzata\n");
     printMatrix(n, capacita, DP);
 
-    printf("->%d ", ZainoRicorsivo(weight, profit, n, capacita, DP));
+    printf("->%d ", ZainoRicorsivo(weight, profit, n+1, capacita, DP));
 
 
     return 0;
@@ -42,7 +42,7 @@ int ZainoRicorsivo(int w[], int p[], int i, int c, int DP[i+1][c + 1]) {
     } else {
         if (DP[i][c] < 0) {
             int notTaken = ZainoRicorsivo(w, p, i - 1, c, DP);
-            int Taken = ZainoRicorsivo(w, p, i - 1, c - w[i+1], DP) + p[i+1];
+            int Taken = ZainoRicorsivo(w, p, i - 1, (c - w[i]), DP) + p[i];
             DP[i][c] = MAX(&notTaken, &Taken);
         }
         return DP[i][c];
