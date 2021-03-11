@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/Knappak/main.c" "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/Knappak/cmake-build-debug/CMakeFiles/Knappak.dir/main.c.obj"
+  "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/Knapsack/main.c" "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/Knapsack/cmake-build-debug/CMakeFiles/Knappak.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -4,6 +4,7 @@
 #define CAPACITA 9
 
 int zaino(const int *Capacity, const int *Weight, int *Profit, const int *n);
+
 int max(int Value1, int Value2);
 
 int main() {
@@ -35,6 +36,17 @@ int zaino(const int *Capacity, const int *Weight, int *Profit, const int *n) {
                 DP[i][c] = DP[i - 1][c];
         }
     }
+
+/*Stama di una matrice */
+    for (i = 0; i <= *n; i++) {
+        for (c = 0; c <= *Capacity; c++) {
+            printf("%d ", DP[i][c]);
+        }
+        printf("\n");
+    }
+    printf("\n");
+
+
     return DP[*n][*Capacity];
 }
 

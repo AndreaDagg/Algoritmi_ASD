@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/Knappak
+# Install script for directory: C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/Knapsack
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Ripasso c/Ricorsione/Knappak/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/Knapsack/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
