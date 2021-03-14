@@ -1,3 +1,18 @@
+/**Supponete di avere una scacchiera composta da n*n caselle e un pedone che dovete muovere dall’estremit`a
+inferiore a quella superiore. Il pedone si pu`o muovere (1) una casella in alto, oppure (2) una casella in
+diagonale alto-destra, oppure (3) una casella in diagonale alto-sinistra. Non si pu`o tornare indietro. Le
+caselle sono denotate da una coppia di coordinate (r; c) (riga, colonna).
+Alla scacchiera `e associata una matrice P; quando una cella (r; c) viene visitata, si guadagna un profitto
+P[r][c].
+Potendosi muovere di una riga alla volta, un percorso dall’estremit`a inferiore all’estremit`a superiore
+contiene esattamente n celle; il suo guadagno totale `e dato dalla somma dei profitti delle celle che lo
+compongono.
+Data in input una matrice P, scrivere un algoritmo che restituisca il massimo guadagno ottenibile partendo
+da una qualunque cella dell’estremit`a inferiore e raggiungendo una qualunque cella dell’estremit`a superiore,
+seguendo le regole appena descritte.
+Esempio di tabella P per una scacchiera 5  5; sono evidenziati (uno in grassetto e uno con sottolineatura)
+due percorsi ottimi dalla riga inferiore a quella superiore, entrambi con valore 33.*/
+
 #include <stdio.h>
 
 #define INFINTO -99
