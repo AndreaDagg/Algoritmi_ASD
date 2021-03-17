@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Andrea D'Agg/CLionProjects/Breadth first search (BFS)/main.c" "C:/Users/Andrea D'Agg/CLionProjects/Breadth first search (BFS)/cmake-build-debug/CMakeFiles/Breadth_first_search__BFS_.dir/main.c.obj"
+  "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Graph and Tree Algorithms/Breadth first search (BFS)/main.c" "C:/Users/Andrea D'Agg/Desktop/AlgoEs/Graph and Tree Algorithms/Breadth first search (BFS)/cmake-build-debug/CMakeFiles/Breadth_first_search__BFS_.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

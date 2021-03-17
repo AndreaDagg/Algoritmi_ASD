@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/Desktop/Lez_1/cmake-build-debug/CMakeFiles/Lez_1.dir
+C:/Users/Andrea D'Agg/Desktop/Lez_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/Desktop/Lez_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

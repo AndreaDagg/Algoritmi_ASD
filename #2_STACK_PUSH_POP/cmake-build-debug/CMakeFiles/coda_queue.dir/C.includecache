@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrea D'Agg/Desktop/AlgoEs/Lezioni_Recupero_Algoritmi/1.Stack_Pila/stack.c
+stdio.h
+-
+stdlib.h
+-
+
