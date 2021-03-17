@@ -34,7 +34,7 @@
   </ol>
 </li>
 
-<strong>Algoritmi di ordinamento (Selection Sort, Insertion Sort, Merge sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort)</strong>
+<li><strong>Algoritmi di ordinamento (Selection Sort, Insertion Sort, Merge sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort)</strong>
 </li>
 <li><strong>Puntatori e strutture</strong></li>
 </ol>
