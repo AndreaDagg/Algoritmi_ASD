@@ -3,21 +3,21 @@
 <h3> Algortimi e strutture dati in C </h3>
 
 <ol>
-<li>**Programmi di ripasso linguaggio C**</li>
+  <li><strong>Programmi di ripasso linguaggio C</strong></li>
   
-<li>**Puntatori e strutture**</li>
+<li><strong>Puntatori e strutture</strong></li>
   
-<li>**Liste concatenate**
+<li><strong>Liste concatenate</strong>
 <ol>
 <li>Queue</li>
 <li>Stack</li>
 </ol>
   
 </li>
-<li>**Ricorsione**</li>
-<li>**Strutture dati Alberi e grafi (Bfs, Dfs)**</li>
-<li>**Progammazione Dinamica: (Lcs)**</li>
+<li><strong>Ricorsione</strong></li>
+<li><strong>Strutture dati Alberi e grafi (Bfs, Dfs)</strong></li>
+<li><strong>Progammazione Dinamica: (Lcs)</strong></li>
 <li
-**Algoritmi di ordinamento (Selection Sort, Insertion Sort, Merge sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort)**
+<strong>Algoritmi di ordinamento (Selection Sort, Insertion Sort, Merge sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort)</strong>
 </li>
 </ol>
