@@ -19,9 +19,21 @@
     <li>Hanoi</li>
   </ol>
 </li>
+
+
+
+
 <li><strong>Strutture dati Alberi e grafi (Bfs, Dfs)</strong></li>
-<li><strong>Progammazione Dinamica: (Lcs)</strong></li>
+
 <li
+
+<li> <strong>Programmazione Dinamica</strong>
+  <ol>
+     <li>Problema dello zaino - Knapsack</li>
+    <li>(LCS) Longhest common subsiquence</li>
+  </ol>
+</li>
+
 <strong>Algoritmi di ordinamento (Selection Sort, Insertion Sort, Merge sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort)</strong>
 </li>
 <li><strong>Puntatori e strutture</strong></li>
