@@ -30,7 +30,7 @@
 <li> <strong>Programmazione Dinamica</strong>
   <ol>
      <li>Problema dello zaino - Knapsack</li>
-    <li>(LCS) Longhest common subsiquence</li>
+    <li>(LCS) Longest common subsequence</li>
   </ol>
 </li>
 
