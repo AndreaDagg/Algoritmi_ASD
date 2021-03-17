@@ -4,8 +4,10 @@
 
 * Programmi di ripasso linguaggio C
 * Liste concatenate
-* <ol>- Queue
-* - Stack</ol>
+* <ol>
+* - Queue
+* - Stack
+* </ol>
 * Puntatori e strutture
 * Ricorsione
 * Strutture dati Alberi e grafi (Bfs, Dfs)
