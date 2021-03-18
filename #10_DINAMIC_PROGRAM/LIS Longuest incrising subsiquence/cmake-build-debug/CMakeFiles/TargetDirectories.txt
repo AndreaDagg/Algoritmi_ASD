@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/Desktop/Programmazione Dinamica/LIS Longuest incrising subsiquence/cmake-build-debug/CMakeFiles/LIS_Longuest_incrising_subsiquence.dir
+C:/Users/Andrea D'Agg/Desktop/Programmazione Dinamica/LIS Longuest incrising subsiquence/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/Desktop/Programmazione Dinamica/LIS Longuest incrising subsiquence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
