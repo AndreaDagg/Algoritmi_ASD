@@ -1,0 +1,3 @@
+C:/Users/Andrea D'Agg/Desktop/Programmazione Dinamica/Lis/cmake-build-debug/CMakeFiles/Lis.dir
+C:/Users/Andrea D'Agg/Desktop/Programmazione Dinamica/Lis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea D'Agg/Desktop/Programmazione Dinamica/Lis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
