@@ -1,4 +1,4 @@
-# AlgoEe
+asd exercise
 
 <h3> Algortimi e strutture dati in C </h3>
 
