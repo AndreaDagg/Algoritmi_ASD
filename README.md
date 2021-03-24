@@ -49,7 +49,6 @@ asd exercise
   <ol>
      <li>Problema dello zaino - Knapsack</li>
     <li>(LCS) Longest common subsequence</li>
-    <li>Batterie</li>
     <li>Knapsackrecursive</li>
     <li>(LIS) Longuest Increasing Subsiquence</li>
     <li>Max Quadrato di Bool</li>
