@@ -1,3 +1,0 @@
-C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/Sottosequenza crescete/cmake-build-debug/CMakeFiles/Sottosequenza_crescete.dir
-C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/Sottosequenza crescete/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Andrea D'Agg/Desktop/AlgoEs/Dinamic Programming Algorithms/Sottosequenza crescete/cmake-build-debug/CMakeFiles/rebuild_cache.dir
