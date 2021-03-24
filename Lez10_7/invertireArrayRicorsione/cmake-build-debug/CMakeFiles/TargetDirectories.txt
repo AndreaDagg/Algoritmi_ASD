@@ -1,3 +1,0 @@
-C:/Users/Andrea D'Agg/CLionProjects/Lez07/invertireArrayRicorsione/cmake-build-debug/CMakeFiles/invertireArrayRicorsione.dir
-C:/Users/Andrea D'Agg/CLionProjects/Lez07/invertireArrayRicorsione/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Andrea D'Agg/CLionProjects/Lez07/invertireArrayRicorsione/cmake-build-debug/CMakeFiles/rebuild_cache.dir
