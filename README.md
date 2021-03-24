@@ -3,38 +3,60 @@
 <h3> Algortimi e strutture dati in C </h3>
 
 <ol>
-  <li><strong>Programmi di ripasso linguaggio C</strong></li>  
-  
-<li><strong>Liste concatenate</strong>
-<ol>
-<li>Queue</li>
-<li>Stack</li>
-  <li>Concatenate recursively</li>
-  <li>Print recursively</li>
-</ol>
+    
+<li><strong>Puntatori e strutture</strong>
+  <ol> 
+    <li>Pointer</li>
+    <li>Struct</li>
+  </ol>
+</li>
+
+<li><strong>Linked list</strong>
+  <ol>
+  <li>Queue #01</li>
+  <li>Stack #02</li>
+    <li>Concatenate recursively #3</li>
+    <li>Print recursively</li>
+  </ol>
 </li>
   
 <li><strong>Ricorsione</strong>
   <ol>
-    <li>Hanoi</li>
+    <li>Hanoi #04</li>
   </ol>
 </li>
 
+<li><strong>Three structure</strong>
+  <ol>
+    <li>BST</li>
+    <li>BFS</li>
+    <li>DFS</li>
+  </ol>
+</li>
 
-
-
-<li><strong>Strutture dati Alberi e grafi (Bfs, Dfs)</strong></li>
-
-<li
+<li><strong>Sorting algorithm</strong>
+  <ol>
+    <li>Counting Sort</li>   
+    <li>Heap Sort</li>    
+    <li>Insertion Sort</li>   
+    <li>Merge Sort</li>   
+    <li>Quick Sort</li>
+    <li>Selection Sort</li>
+  </ol>
+</li>
 
 <li> <strong>Programmazione Dinamica</strong>
   <ol>
      <li>Problema dello zaino - Knapsack</li>
     <li>(LCS) Longest common subsequence</li>
+    <li>Batterie</li>
+    <li>Knapsackrecursive</li>
+    <li>(LIS) Longuest Increasing Subsiquence</li>
+    <li>Max Quadrato di Bool</li>
+    <li>Resto (0-1 problem)</li>
+    <li>Scacchiera</li>
   </ol>
 </li>
 
-<li><strong>Algoritmi di ordinamento (Selection Sort, Insertion Sort, Merge sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort)</strong>
-</li>
-<li><strong>Puntatori e strutture</strong></li>
+
 </ol>
