@@ -1,6 +1,4 @@
-asd exercise
-
-<h3> Algortimi e strutture dati in C </h3>
+<h1> Algortimi e strutture dati in C </h1>
 
 <ol>
     
